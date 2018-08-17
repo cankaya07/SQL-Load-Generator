@@ -13,7 +13,7 @@ For anyone that saw that demo, this tool has gotten a a bit of a face lift… I 
 I originally created this to test settings for the SQL Server 2008 Resource Governor. You can also use it as a (very) light weight load testing tool, but no promises on that. I’m not planning on adding any features to it, or supporting it much, but I thought I’d put it out there.
 
 Here’s what it looks like:
-
+<img src="https://github.com/cankaya07/SQL-Load-Generator/blob/master/__images/17.jpg"/>
 
 
 Here’s a summary of the features:
