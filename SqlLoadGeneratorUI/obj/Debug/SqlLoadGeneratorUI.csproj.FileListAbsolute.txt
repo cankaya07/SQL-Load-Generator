@@ -24,3 +24,16 @@ C:\Users\Can KAYA\Documents\GitHub\SQL-Load-Generator\SqlLoadGeneratorUI\obj\Deb
 C:\Users\Can KAYA\Documents\GitHub\SQL-Load-Generator\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.csproj.CoreCompileInputs.cache
 C:\Users\Can KAYA\Documents\GitHub\SQL-Load-Generator\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.exe
 C:\Users\Can KAYA\Documents\GitHub\SQL-Load-Generator\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.pdb
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\bin\Debug\SqlLoadGeneratorUI.exe.config
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\bin\Debug\SqlLoadGeneratorUI.exe
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\bin\Debug\SqlLoadGeneratorUI.pdb
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.csprojAssemblyReference.cache
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.FormAboutBox.resources
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.FormMain.resources
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.FormOptions.resources
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.Properties.Resources.resources
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.RunSqlQuery.resources
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.csproj.GenerateResource.cache
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.csproj.CoreCompileInputs.cache
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.exe
+C:\Users\can.kaya\Downloads\SQL-Load-Generator-master\SQL-Load-Generator-master\SqlLoadGeneratorUI\obj\Debug\SqlLoadGeneratorUI.pdb

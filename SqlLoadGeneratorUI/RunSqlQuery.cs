@@ -72,7 +72,7 @@ namespace SqlLoadGeneratorUI
         /// </summary>
         public void StartQuery()
         {
-            if (_continuousQuery.RunStatus != RunStatus.Started)
+            if (_continuousQuery==null || _continuousQuery.RunStatus != RunStatus.Started)
             {
                 StartRunSqlQuery();
             }
